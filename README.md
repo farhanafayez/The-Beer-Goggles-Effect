@@ -7,6 +7,12 @@ In this repo, we are trying to find out effects of alcohol on mate selection dur
 
 We can see that with placebo drink, both males and females choose a high percentage of attractive mate.
 
+## Running this
+
+- Make sure you have R installed
+- Open the file in R studio 
+- Run the script
+
 
 ### Correlating effect of gender on mate selection
 ![Plot 1](Rplot1.jpeg)
