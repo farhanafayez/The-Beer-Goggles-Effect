@@ -32,3 +32,6 @@ This indicates a person is willing to accept less attractive mate after 4 pints
 ![Plot 4](Rplot4.jpeg)
 
  Statiscally, when males drink too much, in this case 4 pints, they mate with unattractive mates
+ 
+ ---------------------------------------------------------
+ Source: http://www.discoveringstatistics.com/docs/twoway.pdf
